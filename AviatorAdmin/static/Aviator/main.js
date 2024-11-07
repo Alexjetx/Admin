@@ -3,7 +3,7 @@ const stopSignalTimeBlock = document.getElementById("stop-signal-time-block");
 const printSignal = document.getElementById("print-signal");
 const stopProgress = document.getElementById("stop-progress");
 
-const coefficients = [100.94]; // Массив с коэффициентами
+const coefficients = [100.44]; // Массив с коэффициентами
 let currentIndex = 0;
 
 
