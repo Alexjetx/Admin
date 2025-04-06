@@ -18,7 +18,7 @@ getSignal.onclick = async function () {
   printSignal.classList.remove("deactivate");
 
   // Запускаем таймер
-  goTimer(20);
+  goTimer(35);
 
   // Деактивируем кнопку
   getSignal.disabled = true;
